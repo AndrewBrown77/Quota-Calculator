@@ -1,0 +1,12 @@
+{
+  "name": "quota-calculator",
+  "version": "1.0.0",
+  "description": "Name\r Choose a self-explaining name for your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
